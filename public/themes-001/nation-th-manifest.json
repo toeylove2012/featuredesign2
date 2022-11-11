@@ -1,0 +1,160 @@
+{
+  "name": "Posttoday",
+  "short_name": "Posttoday",
+  "description": "เกาะติดข่าว ข่าวร้อน ข่าวเด่น ข่าววันนี้ ข่าวการเมือง ประเด็นการเมือง ข่าวเศรษฐกิจ ข่าวกีฬา ท่องเที่ยว บันเทิง ดูดวง สลากกินแบ่งรัฐบาล คลิปวีดีโอ ทันเหตุการณ์ทุกแง่มุม โดยทีมงานโพสต์ทูเดย์",
+  "id": "/?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
+  "start_url": "/?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
+  "orientation": "portrait",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#c80309",
+  "background_color": "#c80309",
+  "icons": [
+    {
+      "src": "https://media.nationthailand.com/images/Icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-20.png",
+      "sizes": "20x20",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-29.png",
+      "sizes": "29x29",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-40.png",
+      "sizes": "40x40",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-57.png",
+      "sizes": "57x57",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-58.png",
+      "sizes": "58x58",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-80.png",
+      "sizes": "80x80",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-87.png",
+      "sizes": "87x87",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-88.png",
+      "sizes": "88x88",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-100.png",
+      "sizes": "100x100",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-114.png",
+      "sizes": "114x114",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-167.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-172.png",
+      "sizes": "172x172",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://media.nationthailand.com/images/Icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

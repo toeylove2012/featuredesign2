@@ -1,0 +1,106 @@
+// Start | for demo
+
+@import 'https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.3.2/css/simple-line-icons.min.css';
+@import 'https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css';
+
+[data-theme='thansettakij'] {
+  --primary-color: #b05517 !important;
+  --secondary-color: #c07745 !important;
+  --tertiary-color: #ff661f !important;
+  --quaternary-color: #e97c00 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #b34c26 !important;
+  --secondary-gradient: linear-gradient(90deg, #b05517 0%, #e97c00 60%, #d77007 63%, #c5630e 68%, #b95b13 74%, #b25616 82%, #b05517 100%) !important;
+}
+[data-theme='springnews'] {
+  --primary-color: #ffe600 !important;
+  --secondary-color: #ffe000 !important;
+  --tertiary-color: #ffdd00 !important;
+  --quaternary-color: #ffe600 !important;
+  --text-color: #000 !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #ffe600 !important;
+  --secondary-gradient: linear-gradient(90deg, #ffdd00 0%, #ffdd00 60%, #ffe000 63%, #ffe600 68%, #ffe000 74%, #ffdd00 82%, #ffdd00 100%) !important;
+}
+[data-theme='posttoday'] {
+  --primary-color: #eb2227 !important;
+  --secondary-color: #ea212d !important;
+  --tertiary-color: #ea212d !important;
+  --quaternary-color: #eb2227 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #eb2227 !important;
+  --secondary-gradient: linear-gradient(90deg, #eb2227 0%, #eb2227 60%, #ea212d 63%, #ea212d 68%, #ea212d 74%, #eb2227 82%, #eb2227 100%) !important;
+}
+[data-theme='bangkokbiznews'] {
+  --primary-color: #01308b !important;
+  --secondary-color: #004185 !important;
+  --tertiary-color: #023f87 !important;
+  --quaternary-color: #01308b !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #01308b !important;
+  --secondary-gradient: linear-gradient(90deg, #01308b 0%, #01308b 60%, #004185 63%, #023f87 68%, #004185 74%, #01308b 82%, #01308b 100%) !important;
+}
+[data-theme='komchadluek'] {
+  --primary-color: #da1d21 !important;
+  --secondary-color: #dd1f23 !important;
+  --tertiary-color: #ee2424 !important;
+  --quaternary-color: #da1d21 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #da1d21 !important;
+  --secondary-gradient: linear-gradient(90deg, #da1d21 0%, #dd1f23 60%, #dd1f23 63%, #ee2424 68%, #dd1f23 74%, #dd1f23 82%, #da1d21 100%) !important;
+}
+[data-theme='nationthailand'] {
+  --primary-color: #094b7c !important;
+  --secondary-color: #275099 !important;
+  --tertiary-color: #ec2224 !important;
+  --quaternary-color: #054c7c !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #094b7c !important;
+  --secondary-gradient: linear-gradient(90deg, #094b7c 0%, #094b7c 60%, #054c7c 63%, #275099 68%, #054c7c 74%, #094b7c 82%, #094b7c 100%) !important;
+}
+[data-theme='thepeople'] {
+  --primary-color: #dc1535 !important;
+  --secondary-color: #ed1a3b !important;
+  --tertiary-color: #ed1a3b !important;
+  --quaternary-color: #dc1535 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #dc1535 !important;
+  --secondary-gradient: linear-gradient(90deg, #dc1535 0%, #dc1535 60%, #ed1a3b 63%, #dc1535 68%, #ed1a3b 74%, #dc1535 82%, #dc1535 100%) !important;
+}
+[data-theme='nationtv'] {
+  --primary-color: #0111c2 !important;
+  --secondary-color: #0d6efd !important;
+  --tertiary-color: #f8b01d !important;
+  --quaternary-color: #0111c2 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #0111c2 !important;
+  --secondary-gradient: linear-gradient(90deg, #0111c2 0%, #0111c2 60%, #0111c2 63%, #0111c2 68%, #0111c2 74%, #0111c2 82%, #0111c2 100%) !important;
+}
+[data-theme='tnews'] {
+  --primary-color: #000060 !important;
+  --secondary-color: #000089 !important;
+  --tertiary-color: #bd2226 !important;
+  --quaternary-color: #000060 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #000060 !important;
+  --secondary-gradient: linear-gradient(90deg, #000060 0%, #000060 60%, #000089 63%, #000089 68%, #000089 74%, #000060 82%, #000060 100%) !important;
+}
+[data-theme='khobsanam'] {
+  --primary-color: #00ff55 !important;
+  --secondary-color: #00ff57 !important;
+  --tertiary-color: #00aa2c !important;
+  --quaternary-color: #00ff55 !important;
+  --text-color: #000 !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #00ff55 !important;
+  --secondary-gradient: linear-gradient(90deg, #00ff55 0%, #00ff55 60%, #00ff57 63%, #00ff55 68%, #00ff57 74%, #00ff55 82%, #00ff55 100%) !important;
+}
+[data-theme='thainewsonline'] {
+  --primary-color: #000063 !important;
+  --secondary-color: #bd2226 !important;
+  --tertiary-color: #007bff !important;
+  --quaternary-color: #000063 !important;
+  --text-color: #fff !important;
+  --primary-gradient: linear-gradient(278.21deg, rgba(255, 255, 255, 0.1) -141.86%, #f8eb30 -24.95%, rgba(255, 244, 233, 0) 87.38%), #000063 !important;
+  --secondary-gradient: linear-gradient(90deg, #000063 0%, #000063 60%, #000063 63%, #000063 68%, #000063 74%, #000063 82%, #000063 100%) !important;
+}
+[data-theme='default'] {
+}
